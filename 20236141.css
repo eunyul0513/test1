@@ -1,0 +1,24 @@
+*{background-color: rgba(255, 255, 255, 0);}
+
+.justify-content-end
+{background-color: rgb(184, 184, 184); font-weight: bolder;}
+
+.nav-item {color: aliceblue; font-weight: bold;}
+.nav-item:hover {background-color: aliceblue; color: black;}
+
+.navbar-brand
+{font-weight: bolder;}
+
+.carousel-inner {margin-bottom: 50px;}
+
+.banner {margin-top: 30px;}
+#l-font, #r-font {margin: 1px; font-weight: bolder; font-size: xx-large;}
+
+#wrap1{display: flex; align-items: flex-start;}
+.evevt {width: 500px;}
+#aside{margin: 10px; width: 30%;}
+#secion{margin: 10px; width: 70%;}
+
+footer{
+	height: 10rem; /* footer 높이 */	
+}
